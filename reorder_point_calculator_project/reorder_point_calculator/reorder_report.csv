@@ -1,0 +1,7 @@
+sku,name,avg_daily_demand,std_daily_demand,lead_time_days,service_level,safety_stock,reorder_point,eoq,on_hand,status,days_of_stock_left
+P001,Rice 5kg,26.7,7.7,5,0.97,60,193,494,150,REORDER NOW,5.6
+P002,Cooking Oil 1L,21.2,6.2,7,0.95,75,223,482,250,LOW - REORDER SOON,11.8
+P003,Shampoo 200ml,34.9,10.1,4,0.9,52,192,553,400,OK,11.5
+P004,LED Bulb 9W,14.0,4.1,10,0.95,73,212,583,95,REORDER NOW,6.8
+P005,Notebook A4,40.2,11.9,3,0.9,37,158,783,300,OK,7.5
+P006,Phone Charger,9.0,3.0,14,0.99,88,215,297,230,LOW - REORDER SOON,25.5

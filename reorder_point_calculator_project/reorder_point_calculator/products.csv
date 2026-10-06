@@ -1,0 +1,7 @@
+sku,name,lead_time_days,lead_time_std_days,service_level,order_cost,holding_cost_per_unit_year,on_hand
+P001,Rice 5kg,5,1.0,0.97,50,4.0,150
+P002,Cooking Oil 1L,7,2.0,0.95,45,3.0,250
+P003,Shampoo 200ml,4,1.0,0.9,30,2.5,400
+P004,LED Bulb 9W,10,3.0,0.95,60,1.8,95
+P005,Notebook A4,3,0.5,0.9,25,1.2,300
+P006,Phone Charger,14,4.0,0.99,80,6.0,230
